@@ -17,3 +17,10 @@
     ~ more ~ 
         6) Решение следует упаковать в Docker, код проекта разместить на GitHub.
         7) Время на выполнение задания - до 29 июля, можно раньше.
+
+
+DOCKER:
+
+   $ sudo docker pull t0milov/c60-test-task:latest
+   $ sudo docker run --network host -d t0milov/c60-test-task
+
