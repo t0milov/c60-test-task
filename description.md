@@ -19,9 +19,9 @@
         7) Время на выполнение задания - до 29 июля, можно раньше.
 
 
-DOCKER:
+#### DOCKER:
 
-~   $ sudo docker pull t0milov/c60-test-task:latest
-~   $ sudo docker run --network host -d t0milov/c60-test-task
+####   $ sudo docker pull t0milov/c60-test-task:latest
+####   $ sudo docker run --network host -d t0milov/c60-test-task
 
 ### Игра будет доступна по адресу http://localhost:3000/
